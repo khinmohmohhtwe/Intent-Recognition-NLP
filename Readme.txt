@@ -44,10 +44,12 @@ It includes two Streamlit apps where users can input messages and get real-time 
 ---
 
 ## 💻 Run the App
-
+See my Intent_Recongnition.png file     <-  img file
 ### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
+
+
 
 
