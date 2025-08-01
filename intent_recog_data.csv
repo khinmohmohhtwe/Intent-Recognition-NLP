@@ -1,0 +1,36 @@
+text,intent
+I want to book a ride to the airport,BookRide
+Can I schedule a taxi for 5 PM?,BookRide
+Book a car for tomorrow morning,BookRide
+Reserve a ride to downtown,BookRide
+I need a Grab right now,BookRide
+Please cancel my ride,CancelBooking
+I want to cancel my booking,CancelBooking
+Cancel the trip I just booked,CancelBooking
+How do I cancel my ride?,CancelBooking
+Cancel my scheduled ride,CancelBooking
+Where is my driver?,TrackDriver
+Can I track my driver?,TrackDriver
+When will the driver arrive?,TrackDriver
+Show me the driver location,TrackDriver
+Is my driver on the way?,TrackDriver
+How much is the fare to the airport?,PricingInquiry
+What's the price to go to Orchard?,PricingInquiry
+Do you have any promo codes?,PricingInquiry
+Is there a discount for this ride?,PricingInquiry
+How much does it cost for a GrabShare?,PricingInquiry
+My driver was rude,ReportIssue
+I had a bad experience,ReportIssue
+The app keeps crashing,ReportIssue
+I want to report a problem,ReportIssue
+My ride was cancelled without notice,ReportIssue
+Hello,Greet
+Hi there,Greet
+Hey Grab,Greet
+Good morning,Greet
+Hi,Greet
+Thank you,ThankYou
+Thanks a lot,ThankYou
+Appreciate your help,ThankYou
+Thanks!,ThankYou
+Thank you very much,ThankYou

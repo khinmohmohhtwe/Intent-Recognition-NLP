@@ -1,0 +1,13 @@
+# Core
+pandas
+scikit-learn
+joblib
+
+# For TF-IDF version
+# (already included in scikit-learn)
+
+# For SentenceTransformer model
+sentence-transformers
+
+# Web app
+streamlit
